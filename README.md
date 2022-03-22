@@ -2,5 +2,6 @@
 
 ### Steps to Build
 
-npm install 
-npm run start
+1. npm install 
+2. npm run start
+3. open browser http://localhost:3000/
